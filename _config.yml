@@ -1,6 +1,6 @@
 title: My Website
 description: Personal portfolio
-baseurl: ""
+baseurl: "/ameya.ai"
 url: "https://Ameya674.github.io"
 theme: minima
 plugins:
