@@ -1,0 +1,12 @@
+title: My Website
+description: Personal portfolio
+baseurl: ""
+url: "https://Ameya674.github.io"
+theme: minima
+plugins:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
