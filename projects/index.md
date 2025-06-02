@@ -2,7 +2,11 @@
 layout: page
 title: Projects
 ---
-<div class="projects">
+
+<h2>Coming soon!</h2>
+
+
+<!-- <div class="projects">
   <h1 style="text-align: center; margin-bottom: 2rem;">My Projects</h1>
   
   <div class="card">
@@ -52,4 +56,4 @@ title: Projects
       </a>
     </div>
   </div>
-</div>
+</div> -->
