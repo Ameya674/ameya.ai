@@ -2,6 +2,9 @@ title: My Website
 description: Personal portfolio
 baseurl: "/ameya.ai"
 url: "https://Ameya674.github.io"
+
+# baseurl: "/"
+# url: "https://localhost:4000"
 theme: minima
 plugins:
   - jekyll-feed

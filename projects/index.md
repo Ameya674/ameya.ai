@@ -11,7 +11,7 @@ title: Projects
   
   <div class="card">
     <div class="card-image">
-      <img src="{{ '/assets/images/gshare.png' | relative_url }}" alt="Custom Branch Predictor screenshot">
+      <img src="{{ '/assets/images/gshare.jpg' | relative_url }}" alt="Custom Branch Predictor">
     </div>
     <div class="card-content">
       <h1>Custom GShare Branch Predictor for gem5</h1>
@@ -29,7 +29,7 @@ title: Projects
 
   <div class="card">
     <div class="card-image">
-      <img src="{{ '/assets/images/lruipv.png' | relative_url }}" alt="LRU_Variation Policy screenshot">
+      <img src="{{ '/assets/images/lruipv.jpg' | relative_url }}" alt="LRU_Variation Policy screenshot">
     </div>
     <div class="card-content">
       <h1>LRU_Variation Cache Policy for gem5</h1>
