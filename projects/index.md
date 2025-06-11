@@ -3,9 +3,6 @@ layout: page
 title: Projects
 ---
 
-<h2>Coming soon!</h2>
-
-
 <div class="projects">
   <h1 style="text-align: center; margin-bottom: 2rem;">My Projects</h1>
   
