@@ -14,7 +14,7 @@ title: Publications
       <p>
         Developed DSP-MLIR, a domain-specific compiler framework that simplifies DSP programming and enables high-performance, resource-efficient compilation using MLIR. Achieved 12% runtime improvement and 5× code reduction over traditional C-based DSP workflows.
       </p>
-      <a href="https://github.com/MPSLab-ASU/DSP_MLIR" class="conference-btn" target="_blank">View Paper</a>
+      <a href="https://dl.acm.org/doi/10.1145/3735452.3735527" class="conference-btn" target="_blank">View Paper</a>
     </div>
   </div>
 
